@@ -5,6 +5,10 @@ teht1/build/
 teht1/*.user
 
 
+randomExample/build/
+randomExample/*.user
+
+
 teht2/build/
 teht2/*.user
 
