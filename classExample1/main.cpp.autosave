@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+//esimerkki Student luokasta, jolla
+//private tyyppiset jäsenmuuttujat fname, lname
+//ja niille public tyyppiset Getter ja Setter metodit
+//sekä p
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
