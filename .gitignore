@@ -4,10 +4,11 @@ teht0/*.user
 teht1/build/
 teht1/*.user
 
-
 randomExample/build/
 randomExample/*.user
 
+FunktioExample1/build/
+FunktioExample1/*.user
 
 teht2/build/
 teht2/*.user
