@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    Game gameObject(20);
+    Game gameObject(10);
     gameObject.play();
     return 0;
 }
